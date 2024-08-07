@@ -1,0 +1,17 @@
+.dpainel {
+    background-color: aqua;
+    width: 800px;
+    height: 600px;
+    position: relative;
+}
+
+#imgj {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    right: 0%;
+    left: 40%;
+    top: 40%;
+    bottom: 0%;
+
+}

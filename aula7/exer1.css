@@ -1,0 +1,19 @@
+.container {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    font-size: 40px;
+}
+
+.container a[href*=instagram] {
+    color: burlywood;
+}
+
+.container a[href*=google] {
+    color: rgb(255, 47, 210);
+}
+
+.container a[href*=github] {
+    color: chartreuse;
+}

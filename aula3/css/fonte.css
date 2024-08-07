@@ -1,0 +1,21 @@
+#p1{
+    font-family: serif;
+    font-size: 25px;
+    color: blue;
+}
+#p2{
+    font-family: sans-serif;
+    font-size: 15px;
+}
+#p3{
+    font-family: monospace;
+    font-size: 22px;
+}
+#p4{
+    font-family: cursive;
+    font-size: 30px;
+}
+#p5{
+    font-family: fantasy;
+    font-size: 75px;
+}
